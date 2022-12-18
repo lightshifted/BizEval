@@ -4,7 +4,7 @@ Key financial equations that can be useful for assessing financial decisions as 
 
 ## Return on Investment(ROI)
 
-This method measures the profitability of an investment by dividing the net profit by the initial investment. It is a useful tool for comparing different investment options and deciding which is the most profitable.
+This equation measures the profitability of an investment by dividing the net profit by the initial investment. It is a useful tool for comparing different investment options and deciding which is the most profitable.
 
 For example, given a net profit of \$10,000 and an initial investment of \$50,000, the return on investment would be:
 
@@ -16,7 +16,7 @@ return_on_investment(net_profit, initial_investment)
 
 ## Net Present Value (NPV)
 
-This method can be used to compare different investments or projects, taking into account the time value of money. A startup might use NPV to decide between investing in a new product line or expanding into a new market.
+This equation can be used to compare different investments or projects, taking into account the time value of money. A startup might use NPV to decide between investing in a new product line or expanding into a new market.
 
 For example, suppose a startup is considering an investment that requires an initial investment of $100,000 and is expected to generate cash flows of \$50,000 in year 1, \$60,000 in year 2, and \$70,000 in year 3. If the discount rate is 10%, the NPV of the investment can be calculated as follows:
 
@@ -30,7 +30,7 @@ print(npv)
 
 ## Payback Period
 
-This method can be used to measures the amount of time it will take to recover the initial investment in a project. It is often used to evaluate the risk of an investment and determine whether it is a good financial decision.
+This equation can be used to measures the amount of time it will take to recover the initial investment in a project. It is often used to evaluate the risk of an investment and determine whether it is a good financial decision.
 
 For example, if a startup has an initial investment of \$50,000 and expects an annual cash flow of \$10,000, the payback period would be:
 
@@ -41,7 +41,7 @@ print(payback_period)  # Output: 5.0
 
 ## Break-Even Point
 
-This method calculates the point at which the revenue from a project equals the costs of the project. It is useful for determining when a project will start to generate a profit.
+This equation calculates the point at which the revenue from a project equals the costs of the project. It is useful for determining when a project will start to generate a profit.
 
 For example, if a startup has a total fixed cost of \$10,000, where each unit product sells for \$50, and the variable cost per unit time is \$20, the break-even point would be:
 
@@ -62,6 +62,26 @@ total_debt = 100000
 total_equity = 200000
 debt_to_equity_ratio(total_debt, total_equity)
 ```
+
+## Gross Profit Margin
+
+This equation calculates the percentage of each sale that is profit after subtracting the cost of goods sold. It is useful for evaluating the profitability of a business and comparing it to industry benchmarks.
+
+## Operating Profit Margin
+
+This equation calculates the percentage of each sale that is profit after subtracting all operating expenses, including cost of goods sold and general and administrative expenses. It is useful for evaluating the efficiency of a business's operations.
+
+## Earnings Before Interest and Taxes (EBIT)
+
+This equation calculates the profit of a business before deducting interest and taxes. It is useful for evaluating the profitability of a business without considering financing costs or tax implications.
+
+## Earnings Before Interest, Taxes, Depreciations, and Amortization (EBITDA)
+
+This equation calculates the profit of a business before deducting interest, taxes, depreciation, and amortization. It is useful for evaluating the cash flow of a business and comparing it to industry benchmarks.
+
+## Price-to-Earnings Ratio (P/E Ratio)
+
+This equation calculates the market value of a company's stock relative to its earnings per share. It is used to evaluate the relative value of a company's stock and compare it to industry benchmarks.
 
 ## Example
 
