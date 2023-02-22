@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Business Evaluation</h1>
 <div/>
-<p>A simple Python class containing methods for computing financial equations used by business for assessing financial decisions<p/>
+<p align="center">A simple Python class containing methods for computing financial equations used by business for assessing financial decisions</p>
 
 ## Return on Investment(ROI)
 
