@@ -3,7 +3,7 @@
 <div/>
 <p align="center">A simple Python class containing methods for computing financial equations used by business for assessing financial decisions</p>
 
-  <h3>Methods</h3>
+  <h2>Class Methods</h2>
 
 ## Return on Investment(ROI)
 
