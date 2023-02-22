@@ -1,4 +1,4 @@
-# Business Evaluation
+<h1 align="center">Business Evaluation<h1/>
 
 A simple Python class containing methods for computing financial equations used by business for assessing financial decisions.
 
