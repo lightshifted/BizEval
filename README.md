@@ -1,6 +1,6 @@
 # Business Evaluation
 
-Key financial equations that can be useful for assessing financial decisions as a startup business.
+A simple Python class containing methods for computing financial equations used by business for assessing financial decisions.
 
 ## Return on Investment(ROI)
 
