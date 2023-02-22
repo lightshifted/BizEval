@@ -3,6 +3,8 @@
 <div/>
 <p align="center">A simple Python class containing methods for computing financial equations used by business for assessing financial decisions</p>
 
+  <h3>Methods</h3>
+
 ## Return on Investment(ROI)
 
 This equation measures the profitability of an investment by dividing the net profit by the initial investment. It is a useful tool for comparing different investment options and deciding which is the most profitable.
