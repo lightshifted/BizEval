@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Business Evaluation</h1>
+  <h1 align="center">Business Cost Evaluator</h1>
 <div/>
 <p align="center">A simple Python class containing methods for computing financial equations used by business for assessing financial decisions</p>
 
